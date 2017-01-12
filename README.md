@@ -3,7 +3,7 @@ Placeholder for my thoughts on being a productive programmer
 
 Choosing a favorite IDE depending on languages/context
 
-* Brackets - front end development
+* Brackets - front end development - because closes 
 * Intellij IDEA - full-stack developement (Java/Front end) - in-built command line tool - 
 * Eclipse - Java Developement - Easier configuration of servers such as Apache, JBoss
 * Notepad++ General purpose text editor - Syntax highlighting for most languages supported
