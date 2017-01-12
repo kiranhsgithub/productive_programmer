@@ -15,7 +15,9 @@ Choosing a favorite IDE depending on languages/context
 * Chrome - Developer Tools/Bookmark Manager/Ad Blocker/Postman for mocking http requests/Print to PDF
 * Google Drive - Document Storage/Online Editing using Google Docs/Google Sheets
 * Sharepoint - Workflows/File Permissions/Versioning/Forms
-* Content management system - Confluence/Wiki/Paperbox dropbox/
+* Jira - Agile Sprint Dashboards/Stories/Kanban Dashboards/Filters Sort per project or individual/Advanced query JQL/Navigation pane configuration/Swimlanes/
+* Crucible - Code Review Tool/Inline commenting/File level comments/Split screen diff/Unified Diff
+* Content management system - Confluence/Wiki/Paperbox dropbox/wordpress
 * Gradle - Build tasks automation
 * Shell Scripting - Server side tasks automation 
 * Jmeter - Performance testing for your application/services
