@@ -22,6 +22,7 @@ Choosing a favorite IDE depending on languages/context
 * Shell Scripting - Server side tasks automation 
 * Jmeter - Performance testing for your application/services
 * DBMS Tools - Aqua Data Studio/SQL Database Studio for SQL syntax highlighting/formatting/Import or Export Data/SQL History/In Memory Filtering sort and search/Export To Excel CSV/
+* rubber duck debugging
 
 To be aware of some basic unix commands
 
