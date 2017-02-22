@@ -1,14 +1,16 @@
 # productive_programmer
-Placeholder for my thoughts on being a productive programmer
+Placeholder for my thoughts on being a productive programmer. I am not saying these are the best possible ways, but, these are my preferences that I think makes me productive. Other developers can have different preferences than mine. 
 
 Choosing a favorite IDE depending on languages/context
 
-* Brackets - front end development - because closes html tags automatically, and autocompletion for javascript/css. I have tried other tools like Sublime and Atom for a brief period of time and chose to stay with Brackets. Haven't had the chance to explore VsCode yet.
+* Brackets - front end development -  I have tried other tools like Sublime and Atom for a brief period of time and chose to stay with Brackets. Mostly because closes html tags automatically, and autocompletion for javascript/css. Autocompletion exists in other tools as well but I like the Brackets' way of autocompleting html tags.  Haven't had the chance to explore VSCode(Visual Studio Code) yet.
 * Intellij IDEA - full-stack developement (Java/Front end)/in-built command line tool/auto refresh from disk/version control integration/easier version control diff/faster than eclipse/Gradle Support/server launcher for fronend dev/
 * Eclipse - Java Developement/Easier configuration of servers such as Apache, JBoss/runnable programs/version control plugins/Navigator and Package Manager view/search functions/slower than Intellij/l/ocal remote debugging/refactoring wizard/PMD/Find Bugs/Sonar Integration/Classpath and Compiler configuration/
-* Notepad++ General purpose text editor - Syntax highlighting for most languages supported
+* Visual studio - for C# and ASP.NET MVC application development. It comes in-built with Azure deployment facilities and great to use if you plan to deploy on Microsoft Azure. It is great for Windows development using WPF and WinForms. Default integration with Git.  
+* Notepad++ General purpose text editor - Syntax highlighting for most languages supported. It was my favorite Editor once. Now have almost stopped using it. 
 * Text pad - Text search/find and replace/block text selection 
 * Microsoft Excel - Basic analytics/shortcuts for navigating through and selecting and manipulating excel data/Tables - formatting, sort, filter/Text to columns/Remove Duplicates/Cell formatting/Charts/Formulas/Pivot Tables/Macro programming/ Conditional Formatting
+* MS Powerpoint/ https://prezi.com/ https://www.powtoon.com/ : For presentaion. MS Powerpoint is well known and de-facto standard. Prezi, however has some visual effects which appealed to me. And Powtoon are great for creating animated presentations and can convey ideas easily and can deliver same message in a more powerful manner compared to other two formats. 
 * Version Control Softwares :- git/svn - familiarity and hands on with following actions add/update/checkout/commit/resolve conflicts/merge
 * Git Bash - Git command line tool. I am comfortable using unix commands over windows and it has improved my productivity significantly
 * Cloud accounts - Google Drive as it comes with their own version of document/spreadsheet and slides editor. They are really great when concurrent users are editing it. Syncing with mobile is easy well. If you have a gmail account, you can easily save items from your email to cloud and organize them in the way you want. https://paper.dropbox.com has good features when it comes to creating and editing online documents. It also has simple UI and convincing usage and doesn't really cause much problems.  
