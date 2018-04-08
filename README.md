@@ -1,6 +1,12 @@
 # Productive Programmer
 Placeholder for my thoughts on being a productive programmer. I am not saying these are the best possible ways, but, these are my preferences that I think makes me productive. Other developers can have different preferences than mine. 
 
+Follow Agile Practices: 
+* Keep Scrum as small as possible. Answer only 3 questions and discuss nothing more
+** What did I accomplish yesterday
+** What will I work on today
+** Any blockers?
+
 Choosing a favorite IDE depending on languages/context
 * VSCode - Plugins are really useful and inbuilt commant tool terminal. 
 * Brackets - (I don't prefer brackets now and switched to VSCode/Intellij) 
