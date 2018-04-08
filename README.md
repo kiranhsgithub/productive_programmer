@@ -1,4 +1,4 @@
-# productive_programmer
+# Productive Programmer
 Placeholder for my thoughts on being a productive programmer. I am not saying these are the best possible ways, but, these are my preferences that I think makes me productive. Other developers can have different preferences than mine. 
 
 Choosing a favorite IDE depending on languages/context
