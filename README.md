@@ -3,9 +3,10 @@ Placeholder for my thoughts on being a productive programmer. I am not saying th
 
 Follow Agile Practices: 
 * Keep Scrum as small as possible. Answer only 3 questions and discuss nothing more
- * What did I accomplish yesterday
- * What will I work on today
- * Any blockers?
+ 1. What did I accomplish yesterday?
+ 2. What will I work on today?
+ 3. Any blockers?
+
 
 Choosing a favorite IDE depending on languages/context
 * VSCode - Plugins are really useful and inbuilt commant tool terminal. 
