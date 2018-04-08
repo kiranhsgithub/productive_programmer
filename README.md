@@ -2,10 +2,15 @@
 Placeholder for my thoughts on being a productive programmer. I am not saying these are the best possible ways, but, these are my preferences that I think makes me productive. Other developers can have different preferences than mine. 
 
 Choosing a favorite IDE depending on languages/context
-
-* Brackets - front end development -  I have tried other tools like Sublime and Atom for a brief period of time and chose to stay with Brackets. Mostly because closes html tags automatically, and autocompletion for javascript/css. Autocompletion exists in other tools as well but I like the Brackets' way of autocompleting html tags.  Haven't had the chance to explore VSCode(Visual Studio Code) yet.
+* VSCode - Plugins are really useful and inbuilt commant tool terminal. 
+* Brackets - (I don't prefer brackets now and switched to VSCode/Intellij) 
+  Earlier Reasosns for using Brackets - front end development -  I have tried other tools like Sublime and Atom for a brief period of time and chose to stay with Brackets. Mostly because closes html tags automatically, and autocompletion for javascript/css. Autocompletion exists in other tools as well but I like the Brackets' way of autocompleting html tags.  Haven't had the chance to explore VSCode(Visual Studio Code) yet.
 * Intellij IDEA - full-stack developement (Java/Front end)/in-built command line tool/auto refresh from disk/version control integration/easier version control diff/faster than eclipse/Gradle Support/server launcher for fronend dev/
-* Eclipse - Java Developement/Easier configuration of servers such as Apache, JBoss/runnable programs/version control plugins/Navigator and Package Manager view/search functions/slower than Intellij/l/ocal remote debugging/refactoring wizard/PMD/Find Bugs/Sonar Integration/Classpath and Compiler configuration/
+  Ctrl + q For viewing quick documentation. 
+  Integration With Git is really useful. 
+* Eclipse - (not really using Eclipse now as I have found myself to be more productive in Intellij) 
+      Current Reasons - I think eclipse helps writing JUnit test cases. You can right click on a class and generate unit test cases for all the methods (although in TDD test cases are supposed to be written first). Eclipse way of showing quick documentation is really helpful compared to that of Intellij. 
+      Earlier Reasons to use Eclipse - Java Developement/Easier configuration of servers such as Apache, JBoss/runnable programs/version control plugins/Navigator and Package Manager view/search functions/slower than Intellij/l/ocal remote debugging/refactoring wizard/PMD/Find Bugs/Sonar Integration/Classpath and Compiler configuration/
 * Visual studio - for C# and ASP.NET MVC application development. It comes in-built with Azure deployment facilities and great to use if you plan to deploy on Microsoft Azure. It is great for Windows development using WPF and WinForms. Default integration with Git.  
 * Notepad++ General purpose text editor - Syntax highlighting for most languages supported. It was my favorite Editor once. Now have almost stopped using it. 
 * Text pad - Text search/find and replace/block text selection 
